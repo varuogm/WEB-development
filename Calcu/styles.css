@@ -1,0 +1,20 @@
+h1,h3{
+text-align: center;
+color:rgb(216, 20, 20) ;
+
+text-decoration: red;
+
+}
+ul{
+    align-items: center;
+}
+li{
+    color:royalblue;
+}
+
+
+.box {
+
+    max-width: 500px;
+    margin: auto;
+}
